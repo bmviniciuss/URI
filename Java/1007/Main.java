@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
 
   public static void main(String[] args) throws IOException {
-    int a, b, c, d,diference;
+    int a, b, c, d, diference;
 
     Scanner sc = new Scanner(System.in);
 
