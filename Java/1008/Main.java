@@ -1,5 +1,5 @@
 
-// 1007 - SALÁRIO
+// 1008 - SALÁRIO
 
 import java.io.IOException;
 import java.util.Scanner;
